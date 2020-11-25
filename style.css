@@ -1,0 +1,74 @@
+#main-doc{
+  height:100%;
+  width:100%;
+  
+}
+#navbar{
+  height:100%;
+  width:100px;
+  position:fixed;
+  background-color:#1abc9c;
+   
+}
+  
+}
+
+#main-section{
+  
+  
+}
+h2{
+  text-align:center;
+  font-family:Candara;
+  color:white;
+}
+h1{
+  font-family:Candara;
+  text-align:center;
+}
+.new-testament-summary{
+  background: #1abc9c;
+  font-size: 25px;
+    padding: 6px;
+ color:white;
+  
+  
+  
+}
+h3
+{
+  text-align:center;
+  
+}
+p{
+   display: flex;
+  justify-content: center;
+  width:
+}
+#sections{
+   width: ;
+  border: 15px;
+  padding: 100px;
+  margin: 20px;
+  justify-content:center;
+    
+}
+.code{
+  justify-content:center;
+}
+.navlink{
+  
+  margin-bottom:60px;
+  font-size:20px;
+  
+}
+a{
+  text-decoration:none;
+  color:white;
+}
+@media screen and (min-width: 480px) {
+  body #navbar {
+    display:always;
+   
+  }
+}
